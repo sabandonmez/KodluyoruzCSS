@@ -1,0 +1,37 @@
+/************ Classları Kullanarak External  style sheet ***********/
+
+/* class= .text-x{} */
+/* id=#id-bilgisi{} -> unique */
+
+#denemeid{
+    font-size: 45px;
+    font-family: fantasy;
+}
+
+.backroundColorYellow{
+    background-color: yellow;
+}
+
+.backroundColorBlue{
+    background-color: rgb(54, 54, 221);
+}
+
+.backroundColorBlack{
+    background-color: black;
+}
+.text-color-pink{
+    color:rgb(243, 57, 88);
+}
+
+.text-color-blue{
+    color: rgb(75, 75, 238);
+}
+h1,h2,h3,h4,h5,h6{
+    font-size: 30px;
+    color:green;
+}
+
+.text-color-yellow{
+    color: rgb(255, 238, 0);
+}
+

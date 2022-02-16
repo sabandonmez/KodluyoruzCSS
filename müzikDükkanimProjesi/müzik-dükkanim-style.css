@@ -1,0 +1,39 @@
+.Center{
+    text-align: center;
+}
+.TextColorBrown{
+    color: brown;
+}
+.TextColorRed{
+    color: red;
+}
+.ürünlerimizStyle{
+    color: rgb(224, 96, 117);
+    font-size: 20px;
+}
+.FontSize50{
+    font-size: 50px;
+}
+.FontSize30{
+    font-size: 30px;
+}
+.FontSize20{
+    font-size: 20px;
+}
+.FooterStyle{
+    border-color: rgb(116, 116, 116);
+    border-style:groove;
+    border-width: 3px;
+    background-color: rgba(225, 245, 255, 0.795);
+    text-align: center;
+
+}
+h3{
+    text-align: left;
+    font-size: 30px;
+    color: coral;
+    
+}
+
+
+
